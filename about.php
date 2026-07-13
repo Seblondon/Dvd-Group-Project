@@ -26,7 +26,7 @@
             to build your DVD collection<br>
             Welcome to DVD Store! We are an online store dedicated to selling
             physical DVDs to movie lovers everywhere<br>
-            <h4><b>Created By: </b></h4>
+            <h4>Created By: </h4>
             <h4><b>Kus Patel</b></h4>
             <h4><b>Ricky Wang</b></h4>
             <h4><b>Sebastian Londono Escobar</b></h4>
