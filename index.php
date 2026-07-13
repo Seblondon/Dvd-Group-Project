@@ -39,7 +39,7 @@
 
             <hr>
 
-            <h4>Features</h4>
+            <h4>Features:</h4>
             <ul>
                 <li>Manage DVD inventory</li>
                 <li>Add and view customers</li>
